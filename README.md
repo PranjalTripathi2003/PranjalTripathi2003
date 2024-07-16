@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranjal Tripathi</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjaltripathi2003&label=Profile%20views&color=0e75b6&style=flat" alt="pranjaltripathi2003" /> </p>
+<h3 align="center">React Developer | DSA</h3>
 
 - 🔭 I’m currently working on **DSA/Problem Solving Skills**
 
-- 🌱 I’m currently learning **Angular, PostgreSQL, React Native**
+- 🌱 I’m currently learning **Angular, React Native**
 
 - 👨‍💻 All of my projects are available at [https://pranjaltripathi2003.github.io/Personal-Portfolio-Site/](https://pranjaltripathi2003.github.io/Personal-Portfolio-Site/)
 
