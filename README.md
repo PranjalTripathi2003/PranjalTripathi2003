@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DSA/Problem Solving Skills**
 
-- 🌱 I’m currently learning **Angular, React Native**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://pranjaltripathi2003.github.io/Personal-Portfolio-Site/](https://pranjaltripathi2003.github.io/personal-portfolio-site/)
 
