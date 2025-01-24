@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, React Native**
 
-- 👨‍💻 All of my projects are available at [https://pranjaltripathi2003.github.io/Personal-Portfolio-Site/](https://pranjaltripathi2003.github.io/Personal-Portfolio-Site/)
+- 👨‍💻 All of my projects are available at [https://pranjaltripathi2003.github.io/Personal-Portfolio-Site/](https://pranjaltripathi2003.github.io/personal-portfolio-site/)
 
 - 💬 Ask me about **MERN**
 
