@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjal Tripathi</h1>
-<h3 align="center">React Developer | DSA</h3>
+<h3 align="center">Web Development</h3>
 
 - 🔭 I’m currently working on **DSA/Problem Solving Skills**
 
